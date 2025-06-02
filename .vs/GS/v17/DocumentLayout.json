@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\source\\repos\\GS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\statusgerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\statusgerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\usuarioadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\usuarioadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\usuariovisitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\usuariovisitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\logevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\logevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\gerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\gerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\appsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\appsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|c:\\users\\felipe\\source\\repos\\gs\\gs\\gs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C3154E5-B61A-41E2-855A-36ED7AFA47E0}|GS\\GS.csproj|solutionrelative:gs\\gs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioVisitante.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\UsuarioVisitante.cs",
+              "RelativeDocumentMoniker": "GS\\UsuarioVisitante.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\UsuarioVisitante.cs",
+              "RelativeToolTip": "GS\\UsuarioVisitante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:58:23.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\UsuarioAdmin.cs",
+              "RelativeDocumentMoniker": "GS\\UsuarioAdmin.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\UsuarioAdmin.cs",
+              "RelativeToolTip": "GS\\UsuarioAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:58:08.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\Usuario.cs",
+              "RelativeDocumentMoniker": "GS\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\Usuario.cs",
+              "RelativeToolTip": "GS\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:57:52.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusGerador.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\StatusGerador.cs",
+              "RelativeDocumentMoniker": "GS\\StatusGerador.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\StatusGerador.cs",
+              "RelativeToolTip": "GS\\StatusGerador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:53:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GS.csproj",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\GS.csproj",
+              "RelativeDocumentMoniker": "GS\\GS.csproj",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\GS.csproj",
+              "RelativeToolTip": "GS\\GS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T21:20:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogEvento.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\LogEvento.cs",
+              "RelativeDocumentMoniker": "GS\\LogEvento.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\LogEvento.cs",
+              "RelativeToolTip": "GS\\LogEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:21:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gerador.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\Gerador.cs",
+              "RelativeDocumentMoniker": "GS\\Gerador.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\Gerador.cs",
+              "RelativeToolTip": "GS\\Gerador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:20:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSistema.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\AppSistema.cs",
+              "RelativeDocumentMoniker": "GS\\AppSistema.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\AppSistema.cs",
+              "RelativeToolTip": "GS\\AppSistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:19:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\Program.cs",
+              "RelativeDocumentMoniker": "GS\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GS\\GS\\Program.cs",
+              "RelativeToolTip": "GS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:15:04.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

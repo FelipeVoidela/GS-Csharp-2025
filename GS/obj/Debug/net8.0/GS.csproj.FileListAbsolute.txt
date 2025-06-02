@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\GS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\GS.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\GS.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\GS.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\GS\GS\bin\Debug\net8.0\GS.exe
+C:\Users\Felipe\source\repos\GS\GS\bin\Debug\net8.0\GS.deps.json
+C:\Users\Felipe\source\repos\GS\GS\bin\Debug\net8.0\GS.runtimeconfig.json
+C:\Users\Felipe\source\repos\GS\GS\bin\Debug\net8.0\GS.dll
+C:\Users\Felipe\source\repos\GS\GS\bin\Debug\net8.0\GS.pdb
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\GS.dll
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\refint\GS.dll
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\GS.pdb
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\GS.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\GS\GS\obj\Debug\net8.0\ref\GS.dll
