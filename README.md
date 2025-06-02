@@ -17,11 +17,11 @@ Este é um sistema de console desenvolvido em C# com o objetivo de simular a ges
 /GS
 
 
-- AppSistema.cs # Classe principal que gerencia o sistema
-- Gerador.cs # Classe que representa um gerador solar
-- LogEvento.cs # Classe que registra eventos e logs do sistema
-- Program.cs # Ponto de entrada do sistema
-- StatusGerador.cs # Enum que define os estados de um gerador
+- AppSistema.cs - Classe principal que gerencia o sistema
+- Gerador.cs - Classe que representa um gerador solar
+- LogEvento.cs - Classe que registra eventos e logs do sistema
+- Program.cs - Ponto de entrada do sistema
+- StatusGerador.cs - Enum que define os estados de um gerador
 
 ---
 
